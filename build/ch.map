@@ -1,0 +1,2073 @@
+Archive member included because of file (symbol)
+
+c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o (memset)
+c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o (strcasecmp)
+c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strpbrk.o)
+                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o (strpbrk)
+c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strspn.o)
+                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o (strspn)
+c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+                              c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o) (__ctype_ptr__)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 build/obj/crt0_v7m.o
+ .bss           0x00000000        0x0 build/obj/crt0_v7m.o
+ .data          0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .bss           0x00000000        0x0 build/obj/chcoreasm_v7m.o
+ .text          0x00000000        0x0 build/obj/crt1.o (symbol from plugin)
+ .text          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .data          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .text          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .data          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .text          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .data          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .text          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .data          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .text          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+ .data          0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+ .bss           0x00000000        0x0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+ .text          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+ .data          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+ .bss           0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+ .text          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strpbrk.o)
+ .data          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strpbrk.o)
+ .bss           0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strpbrk.o)
+ .text          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strspn.o)
+ .data          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strspn.o)
+ .bss           0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strspn.o)
+ .text          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+ .data          0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+ .bss           0x00000000        0x0 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+ .text          0x00000000        0x0 build/obj/vectors.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsys.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdebug.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chvt.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chschd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chthreads.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chtm.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chdynamic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chregistry.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chsem.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmtx.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcond.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chevents.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmsg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmboxes.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chqueues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmemcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chheap.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chmempools.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chcore_v7m.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/osal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/st.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_queues.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_mmcsd.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/adc.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/i2c.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/pal.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/serial_usb.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/uart.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/usb.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/nvic.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/stm32_dma.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/hal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/st_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/adc_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/pal_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/i2c_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/uart_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/usb_lld.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/board.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/shell.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/memstreams.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/chprintf.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/uartif.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/ring_buff.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/adcif.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/usbcfg.o (symbol from plugin)
+ .text          0x00000000        0x0 build/obj/main.o (symbol from plugin)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x08000000         0x00010000
+ram0             0x20000000         0x00005000
+ram1             0x00000000         0x00000000
+ram2             0x00000000         0x00000000
+ram3             0x00000000         0x00000000
+ram4             0x00000000         0x00000000
+ram5             0x00000000         0x00000000
+ram6             0x00000000         0x00000000
+ram7             0x00000000         0x00000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD build/obj/crt0_v7m.o
+LOAD build/obj/chcoreasm_v7m.o
+LOAD build/obj/crt1.o
+LOAD C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+LOAD C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+LOAD C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+LOAD C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+LOAD C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD build/obj/vectors.o
+LOAD build/obj/chsys.o
+LOAD build/obj/chdebug.o
+LOAD build/obj/chvt.o
+LOAD build/obj/chschd.o
+LOAD build/obj/chthreads.o
+LOAD build/obj/chtm.o
+LOAD build/obj/chdynamic.o
+LOAD build/obj/chregistry.o
+LOAD build/obj/chsem.o
+LOAD build/obj/chmtx.o
+LOAD build/obj/chcond.o
+LOAD build/obj/chevents.o
+LOAD build/obj/chmsg.o
+LOAD build/obj/chmboxes.o
+LOAD build/obj/chqueues.o
+LOAD build/obj/chmemcore.o
+LOAD build/obj/chheap.o
+LOAD build/obj/chmempools.o
+LOAD build/obj/chcore.o
+LOAD build/obj/chcore_v7m.o
+LOAD build/obj/osal.o
+LOAD build/obj/hal.o
+LOAD build/obj/st.o
+LOAD build/obj/hal_queues.o
+LOAD build/obj/hal_mmcsd.o
+LOAD build/obj/adc.o
+LOAD build/obj/i2c.o
+LOAD build/obj/pal.o
+LOAD build/obj/serial_usb.o
+LOAD build/obj/uart.o
+LOAD build/obj/usb.o
+LOAD build/obj/nvic.o
+LOAD build/obj/stm32_dma.o
+LOAD build/obj/hal_lld.o
+LOAD build/obj/st_lld.o
+LOAD build/obj/adc_lld.o
+LOAD build/obj/pal_lld.o
+LOAD build/obj/i2c_lld.o
+LOAD build/obj/uart_lld.o
+LOAD build/obj/usb_lld.o
+LOAD build/obj/board.o
+LOAD build/obj/shell.o
+LOAD build/obj/memstreams.o
+LOAD build/obj/chprintf.o
+LOAD build/obj/uartif.o
+LOAD build/obj/ring_buff.o
+LOAD build/obj/adcif.o
+LOAD build/obj/usbcfg.o
+LOAD build/obj/main.o
+                0x20000000                __ram0_start__ = ORIGIN (ram0)
+                0x00005000                __ram0_size__ = 0x5000
+                0x20005000                __ram0_end__ = (__ram0_start__ + __ram0_size__)
+                0x00000000                __ram1_start__ = ORIGIN (ram1)
+                0x00000000                __ram1_size__ = 0x0
+                0x00000000                __ram1_end__ = (__ram1_start__ + __ram1_size__)
+                0x00000000                __ram2_start__ = ORIGIN (ram2)
+                0x00000000                __ram2_size__ = 0x0
+                0x00000000                __ram2_end__ = (__ram2_start__ + __ram2_size__)
+                0x00000000                __ram3_start__ = ORIGIN (ram3)
+                0x00000000                __ram3_size__ = 0x0
+                0x00000000                __ram3_end__ = (__ram3_start__ + __ram3_size__)
+                0x00000000                __ram4_start__ = ORIGIN (ram4)
+                0x00000000                __ram4_size__ = 0x0
+                0x00000000                __ram4_end__ = (__ram4_start__ + __ram4_size__)
+                0x00000000                __ram5_start__ = ORIGIN (ram5)
+                0x00000000                __ram5_size__ = 0x0
+                0x00000000                __ram5_end__ = (__ram5_start__ + __ram5_size__)
+                0x00000000                __ram6_start__ = ORIGIN (ram6)
+                0x00000000                __ram6_size__ = 0x0
+                0x00000000                __ram6_end__ = (__ram6_start__ + __ram6_size__)
+                0x00000000                __ram7_start__ = ORIGIN (ram7)
+                0x00000000                __ram7_size__ = 0x0
+                0x00000000                __ram7_end__ = (__ram7_start__ + __ram7_size__)
+                0x00000000                . = 0x0
+                0x00000000                _text = .
+
+startup         0x08000000      0x140
+ *(.vectors)
+ .vectors       0x08000000      0x140 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08000000                _vectors
+
+constructors    0x08000140        0x0
+                0x08000140                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x08000140                PROVIDE (__init_array_end, .)
+
+destructors     0x08000140        0x0
+                0x08000140                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x08000140                PROVIDE (__fini_array_end, .)
+
+.text           0x08000140     0x4351
+ *(.text)
+ .text          0x08000140       0xc0 build/obj/crt0_v7m.o
+                0x08000140                Reset_Handler
+ .text          0x08000200       0x28 build/obj/chcoreasm_v7m.o
+                0x08000200                _port_switch
+                0x08000210                _port_thread_start
+                0x08000220                _port_switch_from_isr
+                0x08000224                _port_exit_from_isr
+ *(.text.*)
+ *fill*         0x08000228        0x8 
+ .text.usbStartTransmitI
+                0x08000230       0x44 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x08000274        0xc 
+ .text.set_address
+                0x08000280       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x080002a8        0x8 
+ .text.sduInterruptTransmitted
+                0x080002b0        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080002b0                sduInterruptTransmitted
+ *fill*         0x080002b4        0xc 
+ .text.sduRequestsHook
+                0x080002c0       0x40 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080002c0                sduRequestsHook
+ .text.SVC_Handler
+                0x08000300       0x14 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000300                SVC_Handler
+ *fill*         0x08000314        0xc 
+ .text.chCoreAlloc
+                0x08000320       0x38 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000320                chCoreAlloc
+ *fill*         0x08000358        0x8 
+ .text.wakeup   0x08000360       0x70 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .text.chSchReadyI
+                0x080003d0       0x2c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x080003fc        0x4 
+ .text._idle_thread.lto_priv.55
+                0x08000400        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000400                _idle_thread.lto_priv.55
+ *fill*         0x08000404        0xc 
+ .text._usb_ep0out
+                0x08000410       0xb0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000410                _usb_ep0out
+ .text.onotify.lto_priv.52
+                0x080004c0       0x70 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080004c0                onotify.lto_priv.52
+ .text.chSchDoRescheduleAhead
+                0x08000530       0x3c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x0800056c        0x4 
+ .text.dmaStreamAllocate
+                0x08000570       0x98 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000570                dmaStreamAllocate
+ *fill*         0x08000608        0x8 
+ .text.usbStartReceiveI
+                0x08000610       0x44 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000610                usbStartReceiveI
+ *fill*         0x08000654        0xc 
+ .text._usb_ep0in
+                0x08000660       0xec C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000660                _usb_ep0in
+ *fill*         0x0800074c        0x4 
+ .text._usb_ep0setup
+                0x08000750      0x3f0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000750                _usb_ep0setup
+ .text.inotify.lto_priv.51
+                0x08000b40       0x80 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000b40                inotify.lto_priv.51
+ .text.usbInitEndpointI
+                0x08000bc0       0x34 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000bc0                usbInitEndpointI
+ *fill*         0x08000bf4        0xc 
+ .text._port_irq_epilogue
+                0x08000c00       0x54 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000c00                _port_irq_epilogue
+ *fill*         0x08000c54        0xc 
+ .text.Vector84
+                0x08000c60       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000c60                Vector84
+ *fill*         0x08000c88        0x8 
+ .text.Vector80
+                0x08000c90       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000c90                Vector80
+ *fill*         0x08000cb8        0x8 
+ .text.Vector7C
+                0x08000cc0       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000cc0                Vector7C
+ *fill*         0x08000ce8        0x8 
+ .text.Vector78
+                0x08000cf0       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000cf0                Vector78
+ *fill*         0x08000d18        0x8 
+ .text.Vector74
+                0x08000d20       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000d20                Vector74
+ *fill*         0x08000d48        0x8 
+ .text.Vector70
+                0x08000d50       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000d50                Vector70
+ *fill*         0x08000d78        0x8 
+ .text.Vector6C
+                0x08000d80       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000d80                Vector6C
+ *fill*         0x08000da8        0x8 
+ .text.chEvtSignalI
+                0x08000db0       0x2c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000db0                chEvtSignalI
+ *fill*         0x08000ddc        0x4 
+ .text.chEvtBroadcastFlagsI
+                0x08000de0       0x2c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000de0                chEvtBroadcastFlagsI
+ *fill*         0x08000e0c        0x4 
+ .text.sduDataReceived
+                0x08000e10       0x7c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000e10                sduDataReceived
+ *fill*         0x08000e8c        0x4 
+ .text.sduDataTransmitted
+                0x08000e90       0x8c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000e90                sduDataTransmitted
+ *fill*         0x08000f1c        0x4 
+ .text.chTMStopMeasurementX
+                0x08000f20       0x44 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000f20                chTMStopMeasurementX
+ *fill*         0x08000f64        0xc 
+ .text.chThdDequeueAllI
+                0x08000f70       0x24 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000f70                chThdDequeueAllI
+ *fill*         0x08000f94        0xc 
+ .text.chThdResumeI
+                0x08000fa0       0x14 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000fa0                chThdResumeI
+ *fill*         0x08000fb4        0xc 
+ .text.chSchDoReschedule
+                0x08000fc0        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000fc0                chSchDoReschedule
+ *fill*         0x08000fc4        0xc 
+ .text.chSchRescheduleS
+                0x08000fd0       0x18 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000fd0                chSchRescheduleS
+ *fill*         0x08000fe8        0x8 
+ .text.chMtxUnlock
+                0x08000ff0       0x64 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08000ff0                chMtxUnlock
+ *fill*         0x08001054        0xc 
+ .text.chSchGoSleepS
+                0x08001060       0x24 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001060                chSchGoSleepS
+ *fill*         0x08001084        0xc 
+ .text.chMtxLockS
+                0x08001090       0xc8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001090                chMtxLockS
+ *fill*         0x08001158        0x8 
+ .text.chThdExitS
+                0x08001160       0x40 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001160                chThdExitS
+ .text.chThdExit
+                0x080011a0        0xc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080011a0                chThdExit
+ *fill*         0x080011ac        0x4 
+ .text.chSchGoSleepTimeoutS
+                0x080011b0      0x13c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080011b0                chSchGoSleepTimeoutS
+ *fill*         0x080012ec        0x4 
+ .text.chThdEnqueueTimeoutS
+                0x080012f0       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x08001318        0x8 
+ .text.chOQWriteTimeout
+                0x08001320       0x80 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .text.writet.lto_priv.68
+                0x080013a0        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080013a0                writet.lto_priv.68
+ *fill*         0x080013a8        0x8 
+ .text.write.lto_priv.62
+                0x080013b0        0xc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080013b0                write.lto_priv.62
+ *fill*         0x080013bc        0x4 
+ .text.chOQPutTimeout
+                0x080013c0       0x54 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x08001414        0xc 
+ .text.putt.lto_priv.66
+                0x08001420        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001420                putt.lto_priv.66
+ *fill*         0x08001428        0x8 
+ .text.put.lto_priv.64
+                0x08001430        0xc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001430                put.lto_priv.64
+ *fill*         0x0800143c        0x4 
+ .text.chIQReadTimeout
+                0x08001440       0x78 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x080014b8        0x8 
+ .text.readt.lto_priv.69
+                0x080014c0        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080014c0                readt.lto_priv.69
+ *fill*         0x080014c8        0x8 
+ .text.read.lto_priv.63
+                0x080014d0        0xc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080014d0                read.lto_priv.63
+ *fill*         0x080014dc        0x4 
+ .text.chIQGetTimeout
+                0x080014e0       0x50 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .text.gett.lto_priv.67
+                0x08001530        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001530                gett.lto_priv.67
+ *fill*         0x08001538        0x8 
+ .text.get.lto_priv.65
+                0x08001540        0xc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001540                get.lto_priv.65
+ *fill*         0x0800154c        0x4 
+ .text.chThdSleep
+                0x08001550       0x18 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001550                chThdSleep
+ *fill*         0x08001568        0x8 
+ .text._unhandled_exception
+                0x08001570        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001570                Vector58
+                0x08001570                VectorE8
+                0x08001570                Vector9C
+                0x08001570                VectorAC
+                0x08001570                DebugMon_Handler
+                0x08001570                Vector5C
+                0x08001570                Vector11C
+                0x08001570                HardFault_Handler
+                0x08001570                SysTick_Handler
+                0x08001570                VectorDC
+                0x08001570                PendSV_Handler
+                0x08001570                NMI_Handler
+                0x08001570                Vector110
+                0x08001570                Vector120
+                0x08001570                VectorC8
+                0x08001570                Vector94
+                0x08001570                VectorA8
+                0x08001570                VectorB4
+                0x08001570                UsageFault_Handler
+                0x08001570                VectorEC
+                0x08001570                Vector40
+                0x08001570                VectorF8
+                0x08001570                Vector108
+                0x08001570                Vector124
+                0x08001570                Vector118
+                0x08001570                Vector64
+                0x08001570                VectorCC
+                0x08001570                Vector54
+                0x08001570                Vector98
+                0x08001570                Vector138
+                0x08001570                Vector24
+                0x08001570                VectorD0
+                0x08001570                VectorE4
+                0x08001570                Vector130
+                0x08001570                Vector134
+                0x08001570                VectorF0
+                0x08001570                Vector12C
+                0x08001570                Vector13C
+                0x08001570                Vector100
+                0x08001570                VectorE0
+                0x08001570                VectorF4
+                0x08001570                MemManage_Handler
+                0x08001570                VectorA0
+                0x08001570                VectorC4
+                0x08001570                Vector114
+                0x08001570                Vector60
+                0x08001570                Vector1C
+                0x08001570                Vector48
+                0x08001570                VectorD4
+                0x08001570                Vector4C
+                0x08001570                Vector68
+                0x08001570                Vector88
+                0x08001570                Vector104
+                0x08001570                Vector10C
+                0x08001570                BusFault_Handler
+                0x08001570                Vector50
+                0x08001570                Vector44
+                0x08001570                Vector28
+                0x08001570                VectorB8
+                0x08001570                VectorFC
+                0x08001570                Vector34
+                0x08001570                Vector128
+                0x08001570                VectorA4
+                0x08001570                Vector20
+ *fill*         0x08001574        0xc 
+ .text.__default_exit
+                0x08001580        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001580                __default_exit
+ *fill*         0x08001584        0xc 
+ .text.__late_init
+                0x08001590        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x08001590                __late_init
+ *fill*         0x08001594        0xc 
+ .text.__core_init
+                0x080015a0        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                0x080015a0                __core_init
+ *fill*         0x080015a4        0xc 
+ .text.uart_lld_serve_tx_end_irq.lto_priv.54
+                0x080015b0       0x4c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x080015b0                uart_lld_serve_tx_end_irq.lto_priv.54
+ *fill*         0x080015fc        0x4 
+ .text.uart_lld_serve_rx_end_irq.lto_priv.53
+                0x08001600       0x88 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001600                uart_lld_serve_rx_end_irq.lto_priv.53
+ *fill*         0x08001688        0x8 
+ .text.i2c_lld_serve_tx_end_irq.lto_priv.49
+                0x08001690       0x40 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001690                i2c_lld_serve_tx_end_irq.lto_priv.49
+ .text.Vector8C
+                0x080016d0        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ *fill*         0x080016d4        0xc 
+ .text.VectorD8
+                0x080016e0       0x80 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .text.VectorB0
+                0x08001760       0xa0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .text.usb_packet_write_from_queue
+                0x08001800       0xb4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ *fill*         0x080018b4        0xc 
+ .text.VectorC0
+                0x080018c0       0xe4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ *fill*         0x080019a4        0xc 
+ .text.VectorBC
+                0x080019b0      0x110 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .text.i2c_lld_serve_rx_end_irq.lto_priv.48
+                0x08001ac0       0x6c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001ac0                i2c_lld_serve_rx_end_irq.lto_priv.48
+ *fill*         0x08001b2c        0x4 
+ .text.adc_lld_serve_rx_interrupt.lto_priv.50
+                0x08001b30       0xfc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001b30                adc_lld_serve_rx_interrupt.lto_priv.50
+ *fill*         0x08001c2c        0x4 
+ .text.chprintf.lto_priv.79
+                0x08001c30       0x20 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001c30                chprintf.lto_priv.79
+ .text.__early_init
+                0x08001c50       0x8c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001c50                __early_init
+ *fill*         0x08001cdc        0x4 
+ .text.usb_lld_prepare_transmit
+                0x08001ce0       0x7c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001ce0                usb_lld_prepare_transmit
+ *fill*         0x08001d5c        0x4 
+ .text.usb_lld_prepare_receive
+                0x08001d60       0x20 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001d60                usb_lld_prepare_receive
+ .text.usb_lld_init_endpoint
+                0x08001d80       0xd8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001d80                usb_lld_init_endpoint
+ *fill*         0x08001e58        0x8 
+ .text.usb_lld_reset
+                0x08001e60       0x44 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08001e60                usb_lld_reset
+ *fill*         0x08001ea4        0xc 
+ .text.Vector90
+                0x08001eb0      0x3a8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ *fill*         0x08002258        0x8 
+ .text._pal_lld_setgroupmode
+                0x08002260       0x68 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                0x08002260                _pal_lld_setgroupmode
+ *fill*         0x080022c8        0x8 
+ .text.Thread1  0x080022d0       0x48 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08002318        0x8 
+ .text.usb2serial
+                0x08002320       0x40 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .text.adcWatch
+                0x08002360       0x10 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .text.startup.main
+                0x08002370      0xbd0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x08002370                main
+ .text.get_descriptor.lto_priv.59
+                0x08002f40       0x30 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08002f40                get_descriptor.lto_priv.59
+ .text.adcerrorcallback.lto_priv.61
+                0x08002f70        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08002f70                adcerrorcallback.lto_priv.61
+ *fill*         0x08002f74        0xc 
+ .text.adccallback.lto_priv.60
+                0x08002f80       0x20 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08002f80                adccallback.lto_priv.60
+ .text.rxend.lto_priv.72
+                0x08002fa0        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08002fa0                rxend.lto_priv.72
+ *fill*         0x08002fa4        0xc 
+ .text.rxerr.lto_priv.74
+                0x08002fb0        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08002fb0                rxerr.lto_priv.74
+ *fill*         0x08002fb4        0xc 
+ .text.txend2.lto_priv.71
+                0x08002fc0        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08002fc0                txend2.lto_priv.71
+ *fill*         0x08002fc4        0xc 
+ .text.txend1.lto_priv.70
+                0x08002fd0        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08002fd0                txend1.lto_priv.70
+ *fill*         0x08002fd4        0xc 
+ .text.usb_event.lto_priv.58
+                0x08002fe0       0xa8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08002fe0                usb_event.lto_priv.58
+ *fill*         0x08003088        0x8 
+ .text.rxchar.lto_priv.73
+                0x08003090       0x40 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08003090                rxchar.lto_priv.73
+ .text.cmd_systime
+                0x080030d0       0x34 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08003104        0xc 
+ .text.cmd_info
+                0x08003110       0xbc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x080031cc        0x4 
+ .text.shell_thread.lto_priv.47
+                0x080031d0      0x230 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x080031d0                shell_thread.lto_priv.47
+ .text.chvprintf
+                0x08003400      0x308 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08003400                chvprintf
+ *fill*         0x08003708        0x8 
+ .text.chprintf.lto_priv.77
+                0x08003710       0x20 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08003710                chprintf.lto_priv.77
+ .text.i2cSniffer.lto_priv.76
+                0x08003730      0x170 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x08003730                i2cSniffer.lto_priv.76
+ .text.cmd_mem.lto_priv.75
+                0x080038a0       0x10 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x080038a0                cmd_mem.lto_priv.75
+ .text.handleusb2Serial.lto_priv.57
+                0x080038b0       0x58 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                0x080038b0                handleusb2Serial.lto_priv.57
+ *fill*         0x08003908        0x8 
+ .text.chSchWakeupS.constprop.46
+                0x08003910       0x58 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                0x08003910                chSchWakeupS.constprop.46
+ *fill*         0x08003968        0x8 
+ .text.chTMStartMeasurementX.constprop.43
+                0x08003970        0xc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                0x08003970                chTMStartMeasurementX.constprop.43
+ *fill*         0x0800397c        0x4 
+ .text.chThdCreateFromHeap.constprop.38
+                0x08003980      0x12c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                0x08003980                chThdCreateFromHeap.constprop.38
+ *fill*         0x08003aac        0x4 
+ .text._strtok.constprop.4
+                0x08003ab0       0x40 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                0x08003ab0                _strtok.constprop.4
+ .text.long_to_string_with_divisor.constprop.3
+                0x08003af0       0x44 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                0x08003af0                long_to_string_with_divisor.constprop.3
+ *fill*         0x08003b34        0xc 
+ .text.memset   0x08003b40       0x9c c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                0x08003b40                memset
+ *fill*         0x08003bdc        0x4 
+ .text.strcasecmp
+                0x08003be0       0x40 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+                0x08003be0                strcasecmp
+ .text.strpbrk  0x08003c20       0x48 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strpbrk.o)
+                0x08003c20                strpbrk
+ *fill*         0x08003c68        0x8 
+ .text.strspn   0x08003c70       0x34 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strspn.o)
+                0x08003c70                strspn
+ *(.rodata)
+ *(.rodata.*)
+ *fill*         0x08003ca4        0xc 
+ .rodata.zero_status
+                0x08003cb0        0x2 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x08003cb2        0xe 
+ .rodata.active_status
+                0x08003cc0        0x2 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x08003cc2        0xe 
+ .rodata.halted_status
+                0x08003cd0        0x2 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x08003cd2        0xe 
+ .rodata.cfgtab.7105
+                0x08003ce0       0x12 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ *fill*         0x08003cf2        0xe 
+ .rodata.str1.4
+                0x08003d00        0xc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ *fill*         0x08003d0c        0x4 
+ .rodata.ep0config
+                0x08003d10       0x24 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ *fill*         0x08003d34        0xc 
+ .rodata.CSWTCH.32
+                0x08003d40        0x6 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ *fill*         0x08003d46        0xa 
+ .rodata.adcgrpcfg2
+                0x08003d50       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08003d78        0x8 
+ .rodata.vmt    0x08003d80       0x20 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .rodata.serusbcfg
+                0x08003da0        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08003da8        0x8 
+ .rodata._stm32_dma_streams
+                0x08003db0       0x54 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08003e04        0xc 
+ .rodata.usbcfg
+                0x08003e10       0x10 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .rodata.ch_debug
+                0x08003e20       0x16 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08003e36        0xa 
+ .rodata.str1.4
+                0x08003e40       0x6b C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08003eab        0x5 
+ .rodata.commands
+                0x08003eb0       0x28 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08003ed8        0x8 
+ .rodata.shell_cfg1
+                0x08003ee0        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08003ee8        0x8 
+ .rodata.i2cfg1
+                0x08003ef0        0xc C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ *fill*         0x08003efc        0x4 
+ .rodata.ep1config
+                0x08003f00       0x24 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08003f24        0xc 
+ .rodata.vcom_string0
+                0x08003f30        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08003f34        0xc 
+ .rodata.vcom_configuration_descriptor
+                0x08003f40        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08003f48        0x8 
+ .rodata.ep2config
+                0x08003f50       0x24 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08003f74        0xc 
+ .rodata.vcom_device_descriptor_data
+                0x08003f80       0x12 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08003f92        0xe 
+ .rodata.vcom_configuration_descriptor_data
+                0x08003fa0       0x43 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08003fe3        0xd 
+ .rodata.str1.4
+                0x08003ff0      0x2e4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                0x2e8 (size before relaxing)
+ *fill*         0x080042d4        0xc 
+ .rodata.vcom_string1
+                0x080042e0       0x12 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x080042f2        0xe 
+ .rodata.vcom_string2
+                0x08004300       0x38 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08004338        0x8 
+ .rodata.vcom_string3
+                0x08004340        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08004348        0x8 
+ .rodata.vcom_strings
+                0x08004350       0x20 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .rodata.vcom_device_descriptor
+                0x08004370        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x08004378        0x8 
+ .rodata.str1.4
+                0x08004380        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                  0x3 (size before relaxing)
+ *fill*         0x08004384        0xc 
+ .rodata._ctype_
+                0x08004390      0x101 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+                0x08004390                _ctype_
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.gcc*)
+
+.vfp11_veneer   0x08004494        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08004494        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08004494        0x0
+ .iplt          0x00000000        0x0 build/obj/crt0_v7m.o
+
+.rel.dyn        0x08004494        0x0
+ .rel.iplt      0x00000000        0x0 build/obj/crt0_v7m.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x08004491        0x0
+                0x08004491                PROVIDE (__exidx_start, .)
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08004491                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.textalign      0x08004491        0x7
+                0x08004498                . = ALIGN (0x8)
+ *fill*         0x08004491        0x7 
+                0x08004498                . = ALIGN (0x4)
+                0x08004498                _etext = .
+                0x08004498                _textdata = _etext
+
+.mstack         0x20000000      0x400
+                0x20000000                . = ALIGN (0x8)
+                0x20000000                __main_stack_base__ = .
+                0x20000400                . = (. + __main_stack_size__)
+ *fill*         0x20000000      0x400 
+                0x20000400                . = ALIGN (0x8)
+                0x20000400                __main_stack_end__ = .
+
+.pstack         0x20000400      0x400
+                0x20000400                __process_stack_base__ = .
+                0x20000400                __main_thread_stack_base__ = .
+                0x20000800                . = (. + __process_stack_size__)
+ *fill*         0x20000400      0x400 
+                0x20000800                . = ALIGN (0x8)
+                0x20000800                __process_stack_end__ = .
+                0x20000800                __main_thread_stack_end__ = .
+
+.data           0x20000800       0x44 load address 0x08004498
+                0x20000800                . = ALIGN (0x4)
+                0x20000800                PROVIDE (_data, .)
+ *(.data)
+ *(.data.*)
+ .data.linecoding
+                0x20000800        0x7 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ *fill*         0x20000807        0x1 
+ .data.uart_cfg_1
+                0x20000808       0x20 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .data.local_commands
+                0x20000828       0x18 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .data.__ctype_ptr__
+                0x20000840        0x4 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+                0x20000840                __ctype_ptr__
+ *(.ramtext)
+                0x20000844                . = ALIGN (0x4)
+                0x20000844                PROVIDE (_edata, .)
+
+.igot.plt       0x20000844        0x0 load address 0x080044dc
+ .igot.plt      0x00000000        0x0 build/obj/crt0_v7m.o
+
+.bss            0x20000848      0x848 load address 0x080044dc
+                0x20000848                . = ALIGN (0x4)
+                0x20000848                PROVIDE (_bss_start, .)
+ *(.bss)
+ *(.bss.*)
+ .bss.ep0_state
+                0x20000848       0x14 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .bss.ep0setup_buffer
+                0x2000085c        0x8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .bss.UARTD2    0x20000864       0x1c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000864                UARTD2
+ .bss.dma_streams_mask.lto_priv.80
+                0x20000880        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000880                dma_streams_mask.lto_priv.80
+ .bss.USBD1     0x20000884       0x84 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000884                USBD1
+ .bss.samples2.lto_priv.78
+                0x20000908      0x100 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000908                samples2.lto_priv.78
+ .bss.endmem.lto_priv.82
+                0x20000a08        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000a08                endmem.lto_priv.82
+ .bss.nextmem.lto_priv.83
+                0x20000a0c        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000a0c                nextmem.lto_priv.83
+ .bss.SDU1      0x20000a10      0x258 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000a10                SDU1
+ .bss.dma_isr_redir.lto_priv.81
+                0x20000c68       0x38 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000c68                dma_isr_redir.lto_priv.81
+ .bss.ADCD1     0x20000ca0       0x34 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .bss.shell_terminated
+                0x20000cd4        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000cd4                shell_terminated
+ .bss.I2CD1     0x20000cd8       0x38 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                0x20000cd8                I2CD1
+ .bss.waThread1
+                0x20000d10      0x148 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .bss.cb        0x20000e58       0x82 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ *fill*         0x20000eda        0x2 
+ .bss.usbchp    0x20000edc        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .bss.ep1instate
+                0x20000ee0       0x10 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .bss.ep2instate
+                0x20000ef0       0x10 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .bss.ep1outstate
+                0x20000f00       0x14 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .bss.nx        0x20000f14        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .bss.ny        0x20000f18        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .bss.process_tp
+                0x20000f1c        0x4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .bss.ch        0x20000f20      0x150 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                0x20000f20                ch
+ .bss.default_heap.lto_priv.56
+                0x20001070       0x20 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                0x20001070                default_heap.lto_priv.56
+ *(COMMON)
+                0x20001090                . = ALIGN (0x4)
+                0x20001090                PROVIDE (_bss_end, .)
+                0x20001090                PROVIDE (end, .)
+
+.ram0           0x20001090        0x0 load address 0x080044dc
+                0x20001090                . = ALIGN (0x4)
+ *(.ram0)
+ *(.ram0.*)
+                0x20001090                . = ALIGN (0x4)
+                0x20001090                __ram0_free__ = .
+
+.ram1           0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.ram1)
+ *(.ram1.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram1_free__ = .
+
+.ram2           0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.ram2)
+ *(.ram2.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram2_free__ = .
+
+.ram3           0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.ram3)
+ *(.ram3.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram3_free__ = .
+
+.ram4           0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.ram4)
+ *(.ram4.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram4_free__ = .
+
+.ram5           0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.ram5)
+ *(.ram5.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram5_free__ = .
+
+.ram6           0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.ram6)
+ *(.ram6.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram6_free__ = .
+
+.ram7           0x00000000        0x0
+                0x00000000                . = ALIGN (0x4)
+ *(.ram7)
+ *(.ram7.*)
+                0x00000000                . = ALIGN (0x4)
+                0x00000000                __ram7_free__ = .
+                0x20001090                __heap_base__ = __ram0_free__
+                0x20005000                __heap_end__ = __ram0_end__
+                0x00000400                __process_stack_size__ = 0x400
+                0x00000400                __main_stack_size__ = 0x400
+START GROUP
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a
+END GROUP
+OUTPUT(build/ch.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x21 build/obj/crt0_v7m.o
+ .ARM.attributes
+                0x00000021       0x21 build/obj/chcoreasm_v7m.o
+ .ARM.attributes
+                0x00000042       0x31 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .ARM.attributes
+                0x00000073       0x31 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .ARM.attributes
+                0x000000a4       0x31 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .ARM.attributes
+                0x000000d5       0x31 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .ARM.attributes
+                0x00000106       0x31 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+ .ARM.attributes
+                0x00000137       0x2d c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000164       0x2d c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+ .ARM.attributes
+                0x00000191       0x2d c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strpbrk.o)
+ .ARM.attributes
+                0x000001be       0x2d c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strspn.o)
+ .ARM.attributes
+                0x000001eb       0x2d c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .comment       0x00000000       0x71 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+
+.debug_info     0x00000000    0x10e9a
+ .debug_info    0x00000000     0x519e C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .debug_info    0x0000519e     0x35bf C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .debug_info    0x0000875d     0x412d C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .debug_info    0x0000c88a     0x374a C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .debug_info    0x0000ffd4      0xec6 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+
+.debug_abbrev   0x00000000     0x1c0a
+ .debug_abbrev  0x00000000      0x718 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .debug_abbrev  0x00000718      0x675 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .debug_abbrev  0x00000d8d      0x537 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .debug_abbrev  0x000012c4      0x5bb C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .debug_abbrev  0x0000187f      0x38b C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+
+.debug_loc      0x00000000     0x6022
+ .debug_loc     0x00000000     0x2663 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .debug_loc     0x00002663     0x120d C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .debug_loc     0x00003870     0x1162 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .debug_loc     0x000049d2     0x10c6 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .debug_loc     0x00005a98      0x58a C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+
+.debug_aranges  0x00000000      0x3b8
+ .debug_aranges
+                0x00000000      0x1f0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .debug_aranges
+                0x000001f0       0xb0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .debug_aranges
+                0x000002a0       0x38 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .debug_aranges
+                0x000002d8       0xa0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .debug_aranges
+                0x00000378       0x40 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+
+.debug_ranges   0x00000000     0x1c50
+ .debug_ranges  0x00000000      0x828 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .debug_ranges  0x00000828      0x400 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .debug_ranges  0x00000c28      0xca8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .debug_ranges  0x000018d0      0x2a8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .debug_ranges  0x00001b78       0xd8 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+
+.debug_line     0x00000000     0x4124
+ .debug_line    0x00000000     0x13b9 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .debug_line    0x000013b9      0xcad C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .debug_line    0x00002066     0x107f C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .debug_line    0x000030e5      0xb2e C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .debug_line    0x00003c13      0x511 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+
+.debug_str      0x00000000     0x2ecb
+ .debug_str     0x00000000     0x139c C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                               0x1493 (size before relaxing)
+ .debug_str     0x0000139c      0xb01 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                               0x15ec (size before relaxing)
+ .debug_str     0x00001e9d      0x8ff C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                               0x18c5 (size before relaxing)
+ .debug_str     0x0000279c      0x585 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                               0x161c (size before relaxing)
+ .debug_str     0x00002d21      0x1aa C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                0x7ea (size before relaxing)
+
+.debug_frame    0x00000000      0xcf8
+ .debug_frame   0x00000000      0x614 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+ .debug_frame   0x00000614      0x318 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+ .debug_frame   0x0000092c       0x70 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+ .debug_frame   0x0000099c      0x1e4 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+ .debug_frame   0x00000b80       0xb0 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+ .debug_frame   0x00000c30       0x34 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+ .debug_frame   0x00000c64       0x2c c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+ .debug_frame   0x00000c90       0x34 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strpbrk.o)
+ .debug_frame   0x00000cc4       0x34 c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strspn.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADCD1                                             build/obj/adc_lld.o (symbol from plugin)
+                                                  build/obj/adcif.o (symbol from plugin)
+BusFault_Handler                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+DebugMon_Handler                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+HardFault_Handler                                 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+I2CD1                                             C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+InitAdc                                           build/obj/adcif.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+InitUART                                          build/obj/uartif.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+IsBuff_empty                                      build/obj/ring_buff.o (symbol from plugin)
+MemManage_Handler                                 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+NMI_Handler                                       C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+PendSV_Handler                                    C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Reset_Handler                                     build/obj/crt0_v7m.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+SDU1                                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+SVC_Handler                                       C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+SysTick_Handler                                   C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+SystemCoreClock                                   build/obj/hal_lld.o (symbol from plugin)
+UARTD2                                            C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/uart_lld.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/uartif.o (symbol from plugin)
+USBD1                                             C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+UsageFault_Handler                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector100                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector104                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector108                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector10C                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector110                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector114                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector118                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector11C                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector120                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector124                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector128                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector12C                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector130                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector134                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector138                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector13C                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector1C                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector20                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector24                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector28                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector34                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector40                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector44                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector48                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector4C                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector50                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector54                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector58                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector5C                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector60                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector64                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector68                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector6C                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector70                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector74                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector78                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector7C                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector80                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector84                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector88                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector8C                                          build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector90                                          build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+Vector94                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector98                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+Vector9C                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorA0                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorA4                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorA8                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorAC                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorB0                                          build/obj/st_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorB4                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorB8                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorBC                                          build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorC0                                          build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorC4                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorC8                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorCC                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorD0                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorD4                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorD8                                          build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/vectors.o (symbol from plugin)
+VectorDC                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorE0                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorE4                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorE8                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorEC                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorF0                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorF4                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorF8                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+VectorFC                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+__core_init                                       C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__ctype_ptr__                                     c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+                                                  c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+__default_exit                                    C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__early_init                                      C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/board.o (symbol from plugin)
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__fini_array_end                                  build/obj/crt0_v7m.o
+__fini_array_start                                build/obj/crt0_v7m.o
+__heap_base__                                     C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__heap_end__                                      C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+__init_array_end                                  build/obj/crt0_v7m.o
+__init_array_start                                build/obj/crt0_v7m.o
+__late_init                                       C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/crt1.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__main_stack_base__                               build/obj/crt0_v7m.o
+__main_stack_end__                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+__process_stack_base__                            build/obj/crt0_v7m.o
+__process_stack_end__                             build/obj/crt0_v7m.o
+_bss_end                                          build/obj/crt0_v7m.o
+_bss_start                                        build/obj/crt0_v7m.o
+_core_init                                        build/obj/chmemcore.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_ctype_                                           c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-ctype_.o)
+_data                                             build/obj/crt0_v7m.o
+_edata                                            build/obj/crt0_v7m.o
+_heap_init                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_idle_thread.lto_priv.55                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+_pal_lld_init                                     build/obj/pal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+_pal_lld_setgroupmode                             C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/pal_lld.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/adcif.o (symbol from plugin)
+                                                  build/obj/pal.o (symbol from plugin)
+_port_exit_from_isr                               build/obj/chcoreasm_v7m.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_irq_epilogue                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/st_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+_port_switch                                      build/obj/chcoreasm_v7m.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+_port_switch_from_isr                             build/obj/chcoreasm_v7m.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+_port_thread_start                                build/obj/chcoreasm_v7m.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+_scheduler_init                                   build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_stm32_dma_streams                                build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/adc_lld.o (symbol from plugin)
+_strtok.constprop.4                               C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+_textdata                                         build/obj/crt0_v7m.o
+_thread_init                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_tm_init                                          build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+_unhandled_exception                              build/obj/vectors.o (symbol from plugin)
+_usb_ep0in                                        C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+_usb_ep0out                                       C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+_usb_ep0setup                                     C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+_usb_reset                                        build/obj/usb.o (symbol from plugin)
+                                                  build/obj/usb_lld.o (symbol from plugin)
+_vectors                                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/vectors.o (symbol from plugin)
+_vt_init                                          build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+adcAcquireBus                                     build/obj/adc.o (symbol from plugin)
+adcConvert                                        build/obj/adc.o (symbol from plugin)
+adcInit                                           build/obj/adc.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+adcObjectInit                                     build/obj/adc.o (symbol from plugin)
+                                                  build/obj/adc_lld.o (symbol from plugin)
+adcReleaseBus                                     build/obj/adc.o (symbol from plugin)
+adcStart                                          build/obj/adc.o (symbol from plugin)
+                                                  build/obj/adcif.o (symbol from plugin)
+adcStartConversion                                build/obj/adc.o (symbol from plugin)
+                                                  build/obj/adcif.o (symbol from plugin)
+adcStartConversionI                               build/obj/adc.o (symbol from plugin)
+adcStop                                           build/obj/adc.o (symbol from plugin)
+adcStopConversion                                 build/obj/adc.o (symbol from plugin)
+adcStopConversionI                                build/obj/adc.o (symbol from plugin)
+adc_lld_init                                      build/obj/adc_lld.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+adc_lld_serve_rx_interrupt.lto_priv.50            C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+adc_lld_start                                     build/obj/adc_lld.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+adc_lld_start_conversion                          build/obj/adc_lld.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+adc_lld_stop                                      build/obj/adc_lld.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+adc_lld_stop_conversion                           build/obj/adc_lld.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+adccallback.lto_priv.60                           C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+adcerrorcallback.lto_priv.61                      C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+boardInit                                         build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+ch                                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chCondBroadcast                                   build/obj/chcond.o (symbol from plugin)
+chCondBroadcastI                                  build/obj/chcond.o (symbol from plugin)
+chCondObjectInit                                  build/obj/chcond.o (symbol from plugin)
+chCondSignal                                      build/obj/chcond.o (symbol from plugin)
+chCondSignalI                                     build/obj/chcond.o (symbol from plugin)
+chCondWait                                        build/obj/chcond.o (symbol from plugin)
+chCondWaitS                                       build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeout                                 build/obj/chcond.o (symbol from plugin)
+chCondWaitTimeoutS                                build/obj/chcond.o (symbol from plugin)
+chCoreAlloc                                       C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chmemcore.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/chheap.o (symbol from plugin)
+chCoreAllocI                                      build/obj/chmemcore.o (symbol from plugin)
+chCoreGetStatusX                                  build/obj/chmemcore.o (symbol from plugin)
+chEvtAddEvents                                    build/obj/chevents.o (symbol from plugin)
+chEvtBroadcastFlags                               build/obj/chevents.o (symbol from plugin)
+chEvtBroadcastFlagsI                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chEvtDispatch                                     build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearEvents                            build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlags                             build/obj/chevents.o (symbol from plugin)
+chEvtGetAndClearFlagsI                            build/obj/chevents.o (symbol from plugin)
+chEvtRegisterMaskWithFlags                        build/obj/chevents.o (symbol from plugin)
+chEvtSignal                                       build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/uartif.o (symbol from plugin)
+chEvtSignalI                                      C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+chEvtUnregister                                   build/obj/chevents.o (symbol from plugin)
+chEvtWaitAll                                      build/obj/chevents.o (symbol from plugin)
+chEvtWaitAllTimeout                               build/obj/chevents.o (symbol from plugin)
+chEvtWaitAny                                      build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chEvtWaitAnyTimeout                               build/obj/chevents.o (symbol from plugin)
+chEvtWaitOne                                      build/obj/chevents.o (symbol from plugin)
+chEvtWaitOneTimeout                               build/obj/chevents.o (symbol from plugin)
+chHeapAlloc                                       build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chHeapFree                                        build/obj/chheap.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chHeapObjectInit                                  build/obj/chheap.o (symbol from plugin)
+chHeapStatus                                      build/obj/chheap.o (symbol from plugin)
+chIQGetTimeout                                    build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chIQObjectInit                                    build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chIQPutI                                          build/obj/chqueues.o (symbol from plugin)
+chIQReadTimeout                                   build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chIQResetI                                        build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chMBFetch                                         build/obj/chmboxes.o (symbol from plugin)
+chMBFetchI                                        build/obj/chmboxes.o (symbol from plugin)
+chMBFetchS                                        build/obj/chmboxes.o (symbol from plugin)
+chMBObjectInit                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPost                                          build/obj/chmboxes.o (symbol from plugin)
+chMBPostAhead                                     build/obj/chmboxes.o (symbol from plugin)
+chMBPostAheadI                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPostAheadS                                    build/obj/chmboxes.o (symbol from plugin)
+chMBPostI                                         build/obj/chmboxes.o (symbol from plugin)
+chMBPostS                                         build/obj/chmboxes.o (symbol from plugin)
+chMBReset                                         build/obj/chmboxes.o (symbol from plugin)
+chMBResetI                                        build/obj/chmboxes.o (symbol from plugin)
+chMsgRelease                                      build/obj/chmsg.o (symbol from plugin)
+chMsgSend                                         build/obj/chmsg.o (symbol from plugin)
+chMsgWait                                         build/obj/chmsg.o (symbol from plugin)
+chMtxLock                                         build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/i2c.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxLockS                                        C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/chcond.o (symbol from plugin)
+chMtxObjectInit                                   build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/i2c.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxTryLock                                      build/obj/chmtx.o (symbol from plugin)
+chMtxTryLockS                                     build/obj/chmtx.o (symbol from plugin)
+chMtxUnlock                                       C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/i2c.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+                                                  build/obj/chheap.o (symbol from plugin)
+chMtxUnlockAll                                    build/obj/chmtx.o (symbol from plugin)
+chMtxUnlockS                                      build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+chOQGetI                                          build/obj/chqueues.o (symbol from plugin)
+chOQObjectInit                                    build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chOQPutTimeout                                    build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chOQResetI                                        build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chOQWriteTimeout                                  build/obj/chqueues.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+chPoolAlloc                                       build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chPoolAllocI                                      build/obj/chmempools.o (symbol from plugin)
+chPoolFree                                        build/obj/chmempools.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chPoolFreeI                                       build/obj/chmempools.o (symbol from plugin)
+chPoolLoadArray                                   build/obj/chmempools.o (symbol from plugin)
+chPoolObjectInit                                  build/obj/chmempools.o (symbol from plugin)
+chRegFirstThread                                  build/obj/chregistry.o (symbol from plugin)
+chRegNextThread                                   build/obj/chregistry.o (symbol from plugin)
+chSchDoReschedule                                 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chSchDoRescheduleAhead                            build/obj/chschd.o (symbol from plugin)
+chSchDoRescheduleBehind                           build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepS                                     C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchGoSleepTimeoutS                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchIsPreemptionRequired                         build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chcore_v7m.o (symbol from plugin)
+chSchReadyI                                       build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchRescheduleS                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chschd.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/serial_usb.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+                                                  build/obj/chevents.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chmtx.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chSchWakeupS                                      build/obj/chschd.o (symbol from plugin)
+                                                  build/obj/chmsg.o (symbol from plugin)
+                                                  build/obj/chcond.o (symbol from plugin)
+                                                  build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chSchWakeupS.constprop.46                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+chSemAddCounterI                                  build/obj/chsem.o (symbol from plugin)
+chSemObjectInit                                   build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chSemReset                                        build/obj/chsem.o (symbol from plugin)
+chSemResetI                                       build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chSemSignal                                       build/obj/chsem.o (symbol from plugin)
+chSemSignalI                                      build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chSemSignalWait                                   build/obj/chsem.o (symbol from plugin)
+chSemWait                                         build/obj/chsem.o (symbol from plugin)
+chSemWaitS                                        build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeout                                  build/obj/chsem.o (symbol from plugin)
+chSemWaitTimeoutS                                 build/obj/chsem.o (symbol from plugin)
+                                                  build/obj/chmboxes.o (symbol from plugin)
+chSysGetStatusAndLockX                            build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/usb_lld.o (symbol from plugin)
+chSysHalt                                         build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+chSysInit                                         build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+chSysIntegrityCheckI                              build/obj/chsys.o (symbol from plugin)
+chSysIsCounterWithinX                             build/obj/chsys.o (symbol from plugin)
+chSysPolledDelayX                                 build/obj/chsys.o (symbol from plugin)
+chSysRestoreStatusX                               build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/usb_lld.o (symbol from plugin)
+chSysTimerHandlerI                                build/obj/chsys.o (symbol from plugin)
+                                                  build/obj/st_lld.o (symbol from plugin)
+chTMChainMeasurementToX                           build/obj/chtm.o (symbol from plugin)
+chTMObjectInit                                    build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX                             build/obj/chtm.o (symbol from plugin)
+chTMStartMeasurementX.constprop.43                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+chTMStopMeasurementX                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chtm.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+chThdAddRef                                       build/obj/chdynamic.o (symbol from plugin)
+chThdCreateFromHeap                               build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+chThdCreateFromHeap.constprop.38                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+chThdCreateFromMemoryPool                         build/obj/chdynamic.o (symbol from plugin)
+chThdCreateI                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chdynamic.o (symbol from plugin)
+chThdCreateStatic                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chThdDequeueAllI                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/chqueues.o (symbol from plugin)
+chThdDequeueNextI                                 build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chqueues.o (symbol from plugin)
+chThdEnqueueTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chqueues.o (symbol from plugin)
+chThdExit                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/chcoreasm_v7m.o
+chThdExitS                                        C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/shell.o (symbol from plugin)
+chThdRelease                                      build/obj/chdynamic.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chthreads.o (symbol from plugin)
+chThdResume                                       build/obj/chthreads.o (symbol from plugin)
+chThdResumeI                                      C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/adc_lld.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+chThdResumeS                                      build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+chThdSetPriority                                  build/obj/chthreads.o (symbol from plugin)
+chThdSleep                                        C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/chthreads.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+chThdSleepUntil                                   build/obj/chthreads.o (symbol from plugin)
+chThdSleepUntilWindowed                           build/obj/chthreads.o (symbol from plugin)
+chThdStart                                        build/obj/chthreads.o (symbol from plugin)
+chThdSuspendS                                     build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/adc.o (symbol from plugin)
+chThdSuspendTimeoutS                              build/obj/chthreads.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+chThdTerminate                                    build/obj/chthreads.o (symbol from plugin)
+chThdWait                                         build/obj/chthreads.o (symbol from plugin)
+chThdYield                                        build/obj/chthreads.o (symbol from plugin)
+chVTDoResetI                                      build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+chVTDoSetI                                        build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chschd.o (symbol from plugin)
+ch_debug                                          build/obj/chregistry.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+chprintf.lto_priv.77                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+chprintf.lto_priv.79                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+chsnprintf                                        build/obj/chprintf.o (symbol from plugin)
+chvprintf                                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/chprintf.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/shell.o (symbol from plugin)
+cmd_mem.lto_priv.75                               C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+default_heap.lto_priv.56                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+dmaInit                                           build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/hal_lld.o (symbol from plugin)
+dmaStreamAllocate                                 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/adc_lld.o (symbol from plugin)
+dmaStreamRelease                                  build/obj/stm32_dma.o (symbol from plugin)
+                                                  build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/adc_lld.o (symbol from plugin)
+dma_isr_redir.lto_priv.81                         C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+dma_streams_mask.lto_priv.80                      C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+endmem.lto_priv.82                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+get.lto_priv.65                                   C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+getDataPtrOfBuffer                                build/obj/ring_buff.o (symbol from plugin)
+get_descriptor.lto_priv.59                        C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+gett.lto_priv.67                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+halInit                                           build/obj/hal.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+hal_lld_init                                      build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+handleusb2Serial.lto_priv.57                      C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+i2cAcquireBus                                     build/obj/i2c.o (symbol from plugin)
+i2cGetErrors                                      build/obj/i2c.o (symbol from plugin)
+i2cInit                                           build/obj/i2c.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+i2cMasterReceiveTimeout                           build/obj/i2c.o (symbol from plugin)
+i2cMasterTransmitTimeout                          build/obj/i2c.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+i2cObjectInit                                     build/obj/i2c.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+i2cReleaseBus                                     build/obj/i2c.o (symbol from plugin)
+i2cSniffer.lto_priv.76                            C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+i2cStart                                          build/obj/i2c.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+i2cStop                                           build/obj/i2c.o (symbol from plugin)
+i2c_lld_init                                      build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/i2c.o (symbol from plugin)
+i2c_lld_master_receive_timeout                    build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/i2c.o (symbol from plugin)
+i2c_lld_master_transmit_timeout                   build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/i2c.o (symbol from plugin)
+i2c_lld_serve_rx_end_irq.lto_priv.48              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+i2c_lld_serve_tx_end_irq.lto_priv.49              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+i2c_lld_start                                     build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/i2c.o (symbol from plugin)
+i2c_lld_stop                                      build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/i2c.o (symbol from plugin)
+initI2C                                           build/obj/main.o (symbol from plugin)
+inotify.lto_priv.51                               C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+long_to_string_with_divisor.constprop.3           C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+main                                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/main.o (symbol from plugin)
+                                                  build/obj/crt0_v7m.o
+makeUartBufferEmpty                               build/obj/ring_buff.o (symbol from plugin)
+memset                                            c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-memset.o)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+msObjectInit                                      build/obj/memstreams.o (symbol from plugin)
+                                                  build/obj/chprintf.o (symbol from plugin)
+nextmem.lto_priv.83                               C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+nvicClearPending                                  build/obj/nvic.o (symbol from plugin)
+nvicDisableVector                                 build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+nvicEnableVector                                  build/obj/nvic.o (symbol from plugin)
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/i2c_lld.o (symbol from plugin)
+                                                  build/obj/st_lld.o (symbol from plugin)
+                                                  build/obj/stm32_dma.o (symbol from plugin)
+nvicSetSystemHandlerPriority                      build/obj/nvic.o (symbol from plugin)
+nx                                                build/obj/adcif.o (symbol from plugin)
+ny                                                build/obj/adcif.o (symbol from plugin)
+onotify.lto_priv.52                               C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+palReadBus                                        build/obj/pal.o (symbol from plugin)
+palSetBusMode                                     build/obj/pal.o (symbol from plugin)
+palWriteBus                                       build/obj/pal.o (symbol from plugin)
+pal_default_config                                build/obj/board.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+process_tp                                        build/obj/main.o (symbol from plugin)
+                                                  build/obj/uartif.o (symbol from plugin)
+put.lto_priv.64                                   C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+putt.lto_priv.66                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+read.lto_priv.63                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+readCharFromBuffer                                build/obj/ring_buff.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+readt.lto_priv.69                                 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+rxchar.lto_priv.73                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+rxend.lto_priv.72                                 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+rxerr.lto_priv.74                                 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+samples2.lto_priv.78                              C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+sduConfigureHookI                                 build/obj/serial_usb.o (symbol from plugin)
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduDataReceived                                   C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/serial_usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduDataTransmitted                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/serial_usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduInit                                           build/obj/serial_usb.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+sduInterruptTransmitted                           C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/serial_usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduObjectInit                                     build/obj/serial_usb.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+sduRequestsHook                                   C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/serial_usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+sduStart                                          build/obj/serial_usb.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+sduStop                                           build/obj/serial_usb.o (symbol from plugin)
+serusbcfg                                         build/obj/usbcfg.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+shellCreate                                       build/obj/shell.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+shellCreateStatic                                 build/obj/shell.o (symbol from plugin)
+shellExit                                         build/obj/shell.o (symbol from plugin)
+shellGetLine                                      build/obj/shell.o (symbol from plugin)
+shellInit                                         build/obj/shell.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+shell_terminated                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/shell.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+shell_thread.lto_priv.47                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+stGetAlarm                                        build/obj/st.o (symbol from plugin)
+stInit                                            build/obj/st.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+stSetAlarm                                        build/obj/st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+stStartAlarm                                      build/obj/st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+stStopAlarm                                       build/obj/st.o (symbol from plugin)
+                                                  build/obj/chvt.o (symbol from plugin)
+                                                  build/obj/chsys.o (symbol from plugin)
+st_lld_init                                       build/obj/st_lld.o (symbol from plugin)
+                                                  build/obj/st.o (symbol from plugin)
+stm32_clock_init                                  build/obj/hal_lld.o (symbol from plugin)
+                                                  build/obj/board.o (symbol from plugin)
+store_in_buffer                                   build/obj/ring_buff.o (symbol from plugin)
+                                                  build/obj/uartif.o (symbol from plugin)
+strcasecmp                                        c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strcasecmp.o)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+strpbrk                                           c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strpbrk.o)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+strspn                                            c:/chibistudio/tools/gnu tools arm embedded/4.9 2015q3/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a(lib_a-strspn.o)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans4.ltrans.o
+txend1.lto_priv.70                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+txend2.lto_priv.71                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+uartInit                                          build/obj/uart.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+uartObjectInit                                    build/obj/uart.o (symbol from plugin)
+                                                  build/obj/uart_lld.o (symbol from plugin)
+uartStart                                         build/obj/uart.o (symbol from plugin)
+                                                  build/obj/uartif.o (symbol from plugin)
+uartStartReceive                                  build/obj/uart.o (symbol from plugin)
+uartStartReceiveI                                 build/obj/uart.o (symbol from plugin)
+uartStartSend                                     build/obj/uart.o (symbol from plugin)
+                                                  build/obj/uartif.o (symbol from plugin)
+uartStartSendI                                    build/obj/uart.o (symbol from plugin)
+uartStop                                          build/obj/uart.o (symbol from plugin)
+uartStopReceive                                   build/obj/uart.o (symbol from plugin)
+uartStopReceiveI                                  build/obj/uart.o (symbol from plugin)
+uartStopSend                                      build/obj/uart.o (symbol from plugin)
+uartStopSendI                                     build/obj/uart.o (symbol from plugin)
+uart_lld_init                                     build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/uart.o (symbol from plugin)
+uart_lld_serve_rx_end_irq.lto_priv.53             C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+uart_lld_serve_tx_end_irq.lto_priv.54             C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+uart_lld_start                                    build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/uart.o (symbol from plugin)
+uart_lld_start_receive                            build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/uart.o (symbol from plugin)
+uart_lld_start_send                               build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/uart.o (symbol from plugin)
+uart_lld_stop                                     build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/uart.o (symbol from plugin)
+uart_lld_stop_receive                             build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/uart.o (symbol from plugin)
+uart_lld_stop_send                                build/obj/uart_lld.o (symbol from plugin)
+                                                  build/obj/uart.o (symbol from plugin)
+usbDisableEndpointsI                              build/obj/usb.o (symbol from plugin)
+usbInit                                           build/obj/usb.o (symbol from plugin)
+                                                  build/obj/hal.o (symbol from plugin)
+usbInitEndpointI                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/usbcfg.o (symbol from plugin)
+usbObjectInit                                     build/obj/usb.o (symbol from plugin)
+                                                  build/obj/usb_lld.o (symbol from plugin)
+usbPrepareQueuedReceive                           build/obj/usb.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+usbPrepareQueuedTransmit                          build/obj/usb.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+usbPrepareReceive                                 build/obj/usb.o (symbol from plugin)
+usbPrepareTransmit                                build/obj/usb.o (symbol from plugin)
+usbStallReceiveI                                  build/obj/usb.o (symbol from plugin)
+usbStallTransmitI                                 build/obj/usb.o (symbol from plugin)
+usbStart                                          build/obj/usb.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+usbStartReceiveI                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  build/obj/serial_usb.o (symbol from plugin)
+usbStartTransmitI                                 build/obj/usb.o (symbol from plugin)
+                                                  build/obj/serial_usb.o (symbol from plugin)
+usbStop                                           build/obj/usb.o (symbol from plugin)
+usb_event.lto_priv.58                             C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+usb_lld_clear_in                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_clear_out                                 build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_disable_endpoints                         build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_get_status_in                             build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_get_status_out                            build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_init                                      build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_init_endpoint                             C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_prepare_receive                           C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans3.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_prepare_transmit                          C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_read_setup                                build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_reset                                     C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans1.ltrans.o
+                                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_set_address                               build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_stall_in                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_stall_out                                 build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_start                                     build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_start_in                                  build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_start_out                                 build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usb_lld_stop                                      build/obj/usb_lld.o (symbol from plugin)
+                                                  build/obj/usb.o (symbol from plugin)
+usbcfg                                            build/obj/usbcfg.o (symbol from plugin)
+                                                  build/obj/main.o (symbol from plugin)
+write.lto_priv.62                                 C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
+writet.lto_priv.68                                C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans0.ltrans.o
+                                                  C:\Users\ajink\AppData\Local\Temp\ccpZaGwa.ltrans2.ltrans.o
